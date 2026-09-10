@@ -267,7 +267,7 @@ a {
 }
 
 .header__title {
-  font-size: 92px;
+  font-size: 90px;
   font-weight: 600;
   line-height: 100px;
   color: var(--primary);
@@ -793,12 +793,12 @@ footer {
   /* Projects */
 
   .project {
-    height: 360px;
+    height: 354px;
     gap: 20px;
   }
 
   .project__image__wrapper {
-    max-width: 600px;
+    max-width: 590px;
   }
 
   .project__description {
@@ -808,6 +808,14 @@ footer {
   .project__skill,
   .project__para {
     font-size: 12px;
+  }
+
+  .blob-projects {
+    left: -540px;
+  }
+
+  .blob-projects2 {
+    right: -540px;
   }
 }
 

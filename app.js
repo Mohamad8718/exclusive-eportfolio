@@ -10,10 +10,6 @@ function closeMenu() {
   body.classList.remove("open");
 }
 
-// service_wdo41cg
-// template_9gk9k0r
-// SCjDNJkTOp_xirPZ4
-
 async function sendEmail(event) {
   event.preventDefault();
   const body = document.body;
