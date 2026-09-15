@@ -267,7 +267,7 @@ a {
 }
 
 .header__title {
-  font-size: 92px;
+  font-size: 90px;
   font-weight: 600;
   line-height: 100px;
   color: var(--primary);
@@ -929,7 +929,7 @@ footer {
   }
 
   .blob-header {
-    right: -660px;
+    right: -650px;
   }
 
   /* About */
@@ -964,7 +964,7 @@ footer {
   /* Header */
 
   .blob-header {
-    right: -720px;
+    right: -690px;
   }
 
   .header__title {
@@ -980,6 +980,16 @@ footer {
 
   .about__text__para {
     font-size: 14px;
+  }
+
+  /* Projects */
+
+  .blob-projects {
+    left: -590px;
+  }
+
+  .blob-projects2 {
+    right: -590px;
   }
 
   /* Footer */
